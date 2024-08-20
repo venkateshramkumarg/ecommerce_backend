@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Temporary files
+.DS_Store
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Editor-specific files
+.idea
+.vscode/
+*.suo
+
+# Log files
+logs/
+
+# Build artifacts
+build/
+dist/
+
+# Test results
+coverage/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Local configuration files
+.env*
+
+# Prisma files
+prisma/migrations/
+prisma/schema.prisma
+
+# Hono specific files
+.hono/
