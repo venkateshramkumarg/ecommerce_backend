@@ -22,7 +22,7 @@ Welcome to the eCommerce Backend System. This application provides a RESTful API
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/venkateshramkumarg/ecommerce_backend.git
     cd ecommerce-backend
     ```
 
