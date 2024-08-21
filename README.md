@@ -330,4 +330,3 @@ Create a `.env` file in the root directory and add the following environment var
 
 ```plaintext
 DATABASE_URL="your-database-url"
-JWT_SECRET="your-jwt-secret"
